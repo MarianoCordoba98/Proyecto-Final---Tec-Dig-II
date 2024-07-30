@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Tec-Dig-2-000\Tec-Dig-2\TopDesign">
+<ExpandedNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Pins</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Analog</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Clocks</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Interrupts</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\DMA</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\System</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Directives</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Flash Security</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\EEPROM</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Header Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Header Files\cyapicallbacks.h</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Source Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Source Files\main.c</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Pins</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Analog</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Clocks</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Interrupts</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\DMA</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\System</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Directives</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\Flash Security</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.cydwr\EEPROM</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Header Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Header Files\cyapicallbacks.h</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Source Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Source Files\main.c</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\ADC</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\ADC_AMux</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\Bomba</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\Buzzer</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\Clock</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\Cooler</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\cy_boot</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\I2C</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\LCD_I2C</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\MQ2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\NivelMax</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Generated_Source\PSoC5\NivelMin</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Bomba.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Buzzer.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cooler.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_INT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_MASTER.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_SLAVE.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_I2C_FUNCS.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_I2C_LL_I2C.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\MQ2.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\NivelMax.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\NivelMin.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\RXint.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\SCL.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\SDA.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Tec-Dig-2.elf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Tec-Dig-2.hex</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Tec-Dig-2.map</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.gpdsc</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2.rpt</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\Tec-Dig-2_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Bomba.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Buzzer.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cooler.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_INT.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_MASTER.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_SLAVE.lst</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_I2C_FUNCS.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\PSoC 5LP Architecture TRM</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CY8C58LP Family Datasheet</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\System Reference Guides</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\System Reference Guides\cy_boot_v6_10</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\ADC_DelSig_v3_30.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_clock_v2_20.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_constant_v1_0</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_isr_v1_70.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_pins_v2_20</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\I2C_v3_50.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\OpAmp_v1_90.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\PWM_v3_30.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tec-Dig-2-000</v>
+<v>Tec-Dig-2-000\Tec-Dig-2</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\PSoC 5LP Architecture TRM</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\CY8C58LP Family Datasheet</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\System Reference Guides</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\System Reference Guides\cy_boot_v6_10</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\ADC_DelSig_v3_30.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_clock_v2_20.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_constant_v1_0</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_isr_v1_70.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_pins_v2_20</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\I2C_v3_50.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\OpAmp_v1_90.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\PWM_v3_30.pdf</v>
+<v>Tec-Dig-2-000\Tec-Dig-2\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Tec-Dig-2.cydwr" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1163, 691" SelectedTabbedMdiWindow="61348b8a-42d0-45a4-9017-184c78fcab1e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="5950e5b8-d2ab-41d4-af54-6c66d9e503cb" /><DocumentWindow Key="C:\Users\Windows\Desktop\Tec-Dig-2.cydsn\Tec-Dig-2.cydwr" Guid="8df1756d-3bd1-4e2c-85d4-ede1d8c7090d" /><DocumentWindow Key="C:\Users\Windows\Desktop\Tec-Dig-2.cydsn\TopDesign\TopDesign.cysch" Guid="66e031fb-56d1-49b3-87e9-66898acaf6db" /><DocumentWindow Key="C:\Users\Windows\Desktop\Tec-Dig-2.cydsn\main.c" Guid="61348b8a-42d0-45a4-9017-184c78fcab1e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

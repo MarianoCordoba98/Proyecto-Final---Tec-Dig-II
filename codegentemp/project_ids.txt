@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Tec-Dig-2.cydsn\Tec-Dig-2.cyprj|83052df0-e0f3-434f-9f8e-1bb4f9e48fa5
+C:\Users\Windows\Desktop\LCD_I2C_Component-master\LCD_I2C.cylib\LCD_I2C.cyprj|59f77a16-566c-4d91-87c4-01ba51c87d24
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|c06f898c-660c-4105-8ed9-f3cbabc4cff3
+C:\Users\Windows\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|21e2c73d-0de6-45bf-ac26-be4fae1031ae
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|874b368b-0b01-4029-8670-1adbc074497c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5603ef2d-c43b-4a38-a3ea-63bc130b7364
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4c2dbe65-c070-418a-96a2-829690fbeb82
